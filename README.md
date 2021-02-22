@@ -10,7 +10,7 @@ The script is a multi-part one -- DO NOT RUN IT ALL AT ONCE! (see below)
 
 How to use: 
 
-1) REQUIRES a GTFS zip file; you can use the Atlanta MARTA one uploaded with this script to test it out.
+1) REQUIRES a GTFS zip file; I used MARTA's (https://www.itsmarta.com/app-developer-resources.aspx)
 
 2) Install the packages and set up your base tables as per the first part of the R script.
 
