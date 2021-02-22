@@ -1,6 +1,6 @@
 # gtfs_bus_stop_frequency_plotter
 
-R Script to extract GTFS data and plot peak-hour bus stop frequencies to JPG graphs, histograms, and Excel tables.
+Demo R Script to extract GTFS data and plot peak-hour bus stop frequencies to JPG graphs, histograms, and Excel tables.
 
 This is a demo script that I'm using for an academic project to identify "high-frequency" bus routes, i.e. with headways of <= 20 minutes.
 
