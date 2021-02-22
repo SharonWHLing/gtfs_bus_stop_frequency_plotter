@@ -26,5 +26,5 @@ How to use:
      - a histogram for each bus route which shows the frequency of headways for the route, broken into 5 minute intervals; and
      - an Excel summary table showing the frequency distribution of headways for all routes recorded. 
      
-   (see examples uploaded to this repository)
+    Example results for Section 1 and Section 2 are uploaded to this repository.
      
