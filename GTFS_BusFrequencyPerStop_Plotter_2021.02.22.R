@@ -33,7 +33,7 @@ getwd() # check that working directory is changed
 
 #reference: http://tidytransit.r-transit.org/articles/timetable.html
 
-path_local_gtfs <- "R_GTFS_timetabling-MARTA-2020.03.26-using-03.30-stops-sample.zip" #source file name
+path_local_gtfs <- "R_GTFS_timetabling-MARTA-2020.03.26-sample.zip" #source file name
 
 gtfs <- read_gtfs(path_local_gtfs) %>%
   set_hms_times() %>% 
