@@ -20,7 +20,7 @@ How to use:
    
    * Running Section 2 will produce individual folders for each bus route, which will contain: 
      - an Excel table of the route's headways at each bus stop, based on route direction and sequence of bus stops which the buses travel to; and
-     - JPEG graphs for each bus stop, plotting the frequency of arrivals for a bus on that route for the time range (currently 6:00am-10:00am). 
+     - JPEG graphs for each bus stop, plotting the frequency of bus arrivals for a route for the time range (currently 6:00am-10:00am). 
        
    * Running Section 3 will produce:
      - a histogram for each bus route which shows the frequency of headways for the route, broken into 5 minute intervals; and
