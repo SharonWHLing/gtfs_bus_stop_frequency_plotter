@@ -31,9 +31,7 @@ NOTES:
    Sample results attached below and uploaded to the repository.
    
    Section 1 result: JPEG frequency graph for frequency of a route's bus arrivals at a bus stop, for the time range
-   
    ![alt text](https://github.com/SharonWHLing/gtfs_bus_stop_frequency_plotter/blob/main/SAMPLERESULTS-MARTA_Route_1_Code_7634/Route_1_Code_7634_AM_Direction_0_Shape_113529_Sequence_1_Stop_114900.jpg?raw=true)
 
    Section 2 result: JPEG histogram showing frequency of headways for a bus route, for the time range
-   
    ![alt text](https://github.com/SharonWHLing/gtfs_bus_stop_frequency_plotter/blob/main/SAMPLERESULTS-MARTA_Route_1_Code_7634/Route_1_Code_7634_Shape_113529_Headway_Histogram.jpg?raw=true)
