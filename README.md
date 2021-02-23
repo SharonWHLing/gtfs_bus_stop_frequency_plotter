@@ -6,7 +6,7 @@ This is a demo script to identify "high-frequency" bus routes, i.e. with headway
 
 ----------------------------------------------------------------
 
-REQUIRES: A GTFS zip file; this script was made with MARTA's in mind (https://www.itsmarta.com/app-developer-resources.aspx)
+REQUIRES: A GTFS zip file. This script was made with MARTA's in mind (https://www.itsmarta.com/app-developer-resources.aspx).
 
 HOW TO USE: Run the script (in multiple parts) in RStudio or equivalent. 
 
@@ -28,5 +28,8 @@ NOTES:
      - a histogram for each bus route which shows the frequency of headways for the route, broken into 5 minute intervals; and
      - an Excel summary table showing the frequency distribution of headways for all routes recorded. 
      
-   Sample results attached below and uploaded to the repoistory.
-     
+   Sample results attached below and uploaded to the repository.
+    
+   ![alt text](https://github.com/SharonWHLing/gtfs_bus_stop_frequency_plotter/blob/main/SAMPLERESULTS-MARTA_Route_1_Code_7634/Route_1_Code_7634_AM_Direction_0_Shape_113529_Sequence_1_Stop_114900.jpg?raw=true)
+   
+   ![alt text](https://github.com/SharonWHLing/gtfs_bus_stop_frequency_plotter/blob/main/SAMPLERESULTS-MARTA_Route_1_Code_7634/Route_1_Code_7634_Shape_113529_Headway_Histogram.jpg?raw=true)
