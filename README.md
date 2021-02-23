@@ -21,15 +21,19 @@ NOTES:
    - Section 2: CALCULATE HEADWAYS FOR EACH ROUTE (BY STOP, BASED ON DIRECTION & SEQUENCE) & PLOT FREQUENCY DISTRIBUTION PER SHAPE ID.
    
    * Running Section 1 will produce individual folders for each bus route, which will contain: 
-     - an Excel table of the route's headways at each bus stop, based on route direction and sequence of bus stops which the buses travel to; and
+     - an Excel table of the route's headways at each bus stop, arranged by and based on route direction and sequence of bus stops which the buses travel to; and
      - JPEG graphs for each bus stop, plotting the frequency of bus arrivals for a route for the time range (currently 6:00am-10:00am). 
        
    * Running Section 2 will produce:
-     - a histogram for each bus route which shows the frequency of headways for the route, broken into 5 minute intervals; and
+     - a JPEG histogram for each bus route which shows the frequency of headways for the route, broken into 5 minute intervals, for the time range; and
      - an Excel summary table showing the frequency distribution of headways for all routes recorded. 
      
    Sample results attached below and uploaded to the repository.
-    
+   
+   Section 1 result: JPEG frequency graph for frequency of a route's bus arrivals at a bus stop, for the time range
+   
    ![alt text](https://github.com/SharonWHLing/gtfs_bus_stop_frequency_plotter/blob/main/SAMPLERESULTS-MARTA_Route_1_Code_7634/Route_1_Code_7634_AM_Direction_0_Shape_113529_Sequence_1_Stop_114900.jpg?raw=true)
+
+   Section 2 result: JPEG histogram showing frequency of headways for a bus route, for the time range
    
    ![alt text](https://github.com/SharonWHLing/gtfs_bus_stop_frequency_plotter/blob/main/SAMPLERESULTS-MARTA_Route_1_Code_7634/Route_1_Code_7634_Shape_113529_Headway_Histogram.jpg?raw=true)
