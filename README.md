@@ -27,7 +27,9 @@ NOTES:
    * Running Section 2 will produce:
      - a JPEG histogram for each bus route which shows the frequency of headways for the route, broken into 5 minute intervals, for the time range; and
      - an Excel summary table showing the frequency distribution of headways for all routes recorded. 
-     
+   
+   Note that headways of "0 or less minutes" represent the very first bus on that route/at a bus stop. 
+   
    Sample results attached below and uploaded to the repository.
    
    Section 1 result: JPEG frequency graph for frequency of a route's bus arrivals at a bus stop, for the time range
